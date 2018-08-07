@@ -30,3 +30,15 @@ p {
     background-color:rgb(218, 246, 255);
     
 }
+
+a:link {
+    color:blue;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
