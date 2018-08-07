@@ -3,7 +3,7 @@
 
 body{
     background-image: url("blueback.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-attachment: fixed;
     background-position: center; 
     text-align:center;
